@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 480" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Sala con grandi finestre ad arco e un lungo tavolo">
+  <rect width="600" height="480" fill="#15203a"/>
+  <rect x="0" y="400" width="600" height="80" fill="#1e2d4f"/>
+  <path d="M70 400 V215 A65 65 0 0 1 200 215 V400 Z" fill="#e6d7be"/>
+      <path d="M135 150 V400" stroke="#15203a" stroke-width="5"/>
+      <path d="M70 275 H200" stroke="#15203a" stroke-width="5"/><path d="M235 400 V215 A65 65 0 0 1 365 215 V400 Z" fill="#f1e6d2"/>
+      <path d="M300 150 V400" stroke="#15203a" stroke-width="5"/>
+      <path d="M235 275 H365" stroke="#15203a" stroke-width="5"/><path d="M400 400 V215 A65 65 0 0 1 530 215 V400 Z" fill="#e6d7be"/>
+      <path d="M465 150 V400" stroke="#15203a" stroke-width="5"/>
+      <path d="M400 275 H530" stroke="#15203a" stroke-width="5"/>
+  <polygon points="235,400 365,400 440,480 160,480" fill="#f1e6d2" opacity="0.16"/>
+  <rect x="60" y="402" width="480" height="14" fill="#d8c3a0"/>
+  <rect x="86" y="416" width="10" height="64" fill="#c4a97f"/><rect x="504" y="416" width="10" height="64" fill="#c4a97f"/>
+  <rect x="200" y="380" width="70" height="22" fill="#c4a97f"/><rect x="278" y="372" width="54" height="30" fill="#e6d7be"/><rect x="340" y="384" width="62" height="18" fill="#d8c3a0"/>
+</svg>

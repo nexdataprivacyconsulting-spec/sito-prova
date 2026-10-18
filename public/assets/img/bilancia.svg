@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Bilancia della giustizia">
+  <rect width="640" height="480" fill="#e6d7be"/>
+  <rect x="0" y="420" width="640" height="60" fill="#c4a97f"/>
+  <circle cx="470" cy="150" r="130" fill="#f1e6d2" opacity="0.55"/>
+  <rect x="300" y="86" width="40" height="334" fill="#15203a"/>
+  <rect x="250" y="404" width="140" height="22" fill="#15203a"/><rect x="226" y="424" width="188" height="16" fill="#0f182c"/>
+  <circle cx="320" cy="82" r="22" fill="#84643a"/>
+  <rect x="120" y="116" width="400" height="14" rx="7" fill="#15203a" transform="rotate(-4 320 123)"/>
+  
+    <path d="M84 300 A66 30 0 0 0 216 300 Z" fill="#84643a"/>
+    <path d="M150 150 L88 298 M150 150 L212 298 M150 150 L150 298" stroke="#15203a" stroke-width="2.5"/>
+    <path d="M424 262 A66 30 0 0 0 556 262 Z" fill="#84643a"/>
+    <path d="M490 150 L428 260 M490 150 L552 260 M490 150 L490 260" stroke="#15203a" stroke-width="2.5"/>
+</svg>

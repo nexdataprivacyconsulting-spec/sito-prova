@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="40 40 400 330" preserveAspectRatio="xMidYMin slice" role="img" aria-label="Colonna ionica in pietra chiara">
+  <rect x="-200" y="-200" width="900" height="1200" fill="#1e2d4f"/>
+  
+  <rect x="96" y="66" width="288" height="22" fill="#d8c3a0"/>
+  <rect x="96" y="66" width="288" height="6" fill="#f1e6d2"/>
+  <rect x="104" y="88" width="272" height="44" fill="#e6d7be" stroke="#c4a97f" stroke-width="1.2"/>
+  
+    <circle cx="128" cy="112" r="34" fill="#f1e6d2" stroke="#c4a97f" stroke-width="2"/>
+    <path d="M119.3 138.6 L113.2 135.3 L108.1 130.7 L104.4 125.0 L102.3 118.6 L101.8 112.0 L103.0 105.6 L105.7 99.7 L109.7 94.8 L114.7 91.1 L120.5 88.8 L126.5 88.0 L132.4 88.8 L137.9 90.9 L142.6 94.3 L146.3 98.7 L148.7 103.8 L149.7 109.3 L149.3 114.7 L147.7 119.8 L144.8 124.2 L141.0 127.7 L136.5 130.1 L131.7 131.3 L126.8 131.3 L122.1 130.0 L118.0 127.7 L114.7 124.5 L112.3 120.6 L111.0 116.4 L110.8 112.0 L111.7 107.8 L113.6 104.1 L116.3 101.0 L119.6 98.7 L123.3 97.4 L127.1 97.0 L130.7 97.6 L134.1 99.1 L136.9 101.3 L139.0 104.0 L140.3 107.1 L140.7 110.4 L140.4 113.6 L139.3 116.5 L137.5 118.9 L135.3 120.8 L132.7 122.0 L130.0 122.5 L127.4 122.3 L124.9 121.4 L122.9 120.1 L121.3 118.3 L120.2 116.3 L119.8 114.1 L119.9 112.0 L120.5 110.1 L121.5 108.4 L122.9 107.2 L124.4 106.4 L126.0 106.0 L127.6 106.1 L129.0 106.5 L130.2 107.3 L131.1 108.2 L131.7 109.3 L131.9 110.5 L131.8 111.5" fill="none" stroke="#a98b60" stroke-width="2.6" stroke-linecap="round"/>
+    <circle cx="128" cy="112" r="4" fill="#a98b60"/>
+    <circle cx="352" cy="112" r="34" fill="#f1e6d2" stroke="#c4a97f" stroke-width="2"/>
+    <path d="M343.3 138.6 L350.3 139.6 L357.1 138.8 L363.5 136.4 L368.9 132.5 L373.2 127.4 L376.0 121.5 L377.3 115.2 L376.9 108.9 L375.0 102.9 L371.7 97.7 L367.3 93.5 L362.1 90.6 L356.4 89.1 L350.6 89.1 L345.0 90.5 L340.1 93.2 L336.1 97.0 L333.2 101.6 L331.5 106.7 L331.2 112.0 L332.2 117.1 L334.4 121.7 L337.6 125.5 L341.6 128.3 L346.1 130.0 L350.8 130.6 L355.4 129.9 L359.6 128.2 L363.2 125.5 L365.9 122.1 L367.6 118.2 L368.3 114.1 L368.0 110.0 L366.6 106.2 L364.4 103.0 L361.6 100.4 L358.2 98.8 L354.7 98.0 L351.1 98.1 L347.8 99.1 L344.9 100.9 L342.7 103.2 L341.1 106.0 L340.3 109.0 L340.3 112.0 L341.0 114.8 L342.3 117.3 L344.2 119.3 L346.5 120.7 L348.9 121.4 L351.4 121.6 L353.7 121.0 L355.8 120.0 L357.4 118.5 L358.6 116.8 L359.2 114.9 L359.3 112.9 L359.0 111.1 L358.2 109.5 L357.1 108.3 L355.8 107.4 L354.4 106.9 L353.0 106.9 L351.7 107.1 L350.6 107.7 L349.8 108.5 L349.2 109.4" fill="none" stroke="#a98b60" stroke-width="2.6" stroke-linecap="round"/>
+    <circle cx="352" cy="112" r="4" fill="#a98b60"/>
+  <rect x="164" y="124" width="152" height="16" rx="8" fill="#f1e6d2" stroke="#c4a97f" stroke-width="1.2"/>
+  <rect x="156" y="140" width="168" height="12" fill="#d8c3a0"/>
+  <polygon points="160.0,152 177.8,152 171.6,500 152.0,500" fill="#d8c3a0" stroke="#a98b60" stroke-width="1.2"/><polygon points="177.8,152 195.6,152 191.1,500 171.6,500" fill="#e6d7be" stroke="#a98b60" stroke-width="1.2"/><polygon points="195.6,152 213.3,152 210.7,500 191.1,500" fill="#f1e6d2" stroke="#a98b60" stroke-width="1.2"/><polygon points="213.3,152 231.1,152 230.2,500 210.7,500" fill="#f1e6d2" stroke="#a98b60" stroke-width="1.2"/><polygon points="231.1,152 248.9,152 249.8,500 230.2,500" fill="#e6d7be" stroke="#a98b60" stroke-width="1.2"/><polygon points="248.9,152 266.7,152 269.3,500 249.8,500" fill="#d8c3a0" stroke="#a98b60" stroke-width="1.2"/><polygon points="266.7,152 284.4,152 288.9,500 269.3,500" fill="#d8c3a0" stroke="#a98b60" stroke-width="1.2"/><polygon points="284.4,152 302.2,152 308.4,500 288.9,500" fill="#c4a97f" stroke="#a98b60" stroke-width="1.2"/><polygon points="302.2,152 320.0,152 328.0,500 308.4,500" fill="#a98b60" stroke="#a98b60" stroke-width="1.2"/>
+  <rect x="146" y="500" width="188" height="18" rx="9" fill="#e6d7be" stroke="#c4a97f" stroke-width="1.2"/>
+  <rect x="130" y="518" width="220" height="16" fill="#d8c3a0"/>
+  <rect x="104" y="534" width="272" height="34" fill="#e6d7be" stroke="#c4a97f" stroke-width="1.2"/>
+  <rect x="104" y="534" width="272" height="8" fill="#f1e6d2"/>
+</svg>
